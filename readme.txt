@@ -6,8 +6,8 @@ You will need the latest python interpetert and pip.
 1. Download latest python3 interpeter from https://www.python.org/
 2. Download latest veriosn of pip from https://pypi.org/project/pip/
 3. Install rsa by running "pip install rsa" in your command line.
-5. Verify that you have got rsa and python3 interpeter
-4. Run key_gen.py this will generate 2 keys. Public and private.
+4. Verify that you have got rsa and python3 interpeter
+5. Run key_gen.py this will generate 2 keys. Public and private.
 !! PLEASE KEEP A BACK UP OF THESE KEYS IN THE BACKUP FOLDER OR ANYWHERE SAFE !!
 
 ******* FOR SIGNING A FILE ******* 
